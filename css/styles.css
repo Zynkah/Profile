@@ -1,0 +1,86 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(142, 159, 177);
+  background-color: rgb(18, 34, 54);
+}
+
+nav {
+    background-image: url("../Images/02.png");
+    background-position: right;
+    margin: 30px 150px; 
+  border-radius: 25px;
+  text-align: center;
+  border: double;
+  padding: 30px;
+}
+
+a {
+  color: rgb(142, 159, 177);
+  font-size: 30px;
+  text-decoration: none;
+  padding: 30px;
+}
+
+a:hover {
+  color: aliceblue;
+}
+
+h1 {
+  background-image: url("../Images/02.png");
+  background-position: right bottom;
+  margin: 40px 150px; 
+  border-radius: 25px;
+  padding: 30px;
+  border: double;
+  font-size: 60px;
+}
+
+audio {
+  opacity: 0.5;
+  width: 30%;
+}
+
+.Zynkah {
+  text-align: center;
+}
+
+.aboutMe {
+  float: left;
+  text-align: center;
+  padding-left: 10%;
+}
+
+.interests {
+  float: right;
+  text-align: center;
+  padding-right: 10%;
+}
+
+img {
+  display: inline-block;
+  border: double;
+  margin: 20px;
+  border-radius: 35px;
+}
+
+h2 {
+  font-size: 32px;
+  text-decoration: underline double 1px;
+}
+
+ul {
+    background-image: url("../Images/02.png");
+    background-position: top right;
+  margin-left: 20%;
+  border: double;
+  border-radius: 35px;
+  width: 50%;
+  background-color: aliceblue;
+}
+
+li {
+
+  color: rgb(14, 35, 63);
+  padding: 10px;
+  text-align: left;
+}
