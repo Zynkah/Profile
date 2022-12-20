@@ -92,3 +92,7 @@ li a {
 li a:hover{
   color:rgb(72, 39, 202);
 }
+
+footer {
+  text-align: right;
+}
