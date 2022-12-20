@@ -56,9 +56,9 @@ audio {
 img {
   display: inline-block;
   border: double;
-  margin: 20px;
   border-radius: 35px;
   height: 300px;
+  margin-bottom: 10px;
 }
 
 h2 {
@@ -68,18 +68,19 @@ h2 {
 
 ul {
   background-image: url("../Images/02.png");
-  background-position: top right;
+  background-position: center right;
   margin-left: 20%;
   border: double;
   border-radius: 35px;
   width: 50%;
   list-style-type: none;
+  padding: 20px;
 }
 
-.bottom_ul{
-  padding: 30px;
+.top_ul{
   background-image: url("../Images/02.png");
-  background-position: center right;
+  background-position: top right;
+  padding: 20px;
 }
 
 li a {
